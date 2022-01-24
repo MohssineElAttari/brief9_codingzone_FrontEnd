@@ -1,0 +1,172 @@
+body{
+    background-color: #9292721f
+}
+.TT {
+    width: 90% !important;
+    background-color: white !important;
+    height: 31vh !important;
+    margin-top: 22% !important;
+    box-shadow: 2px 2px 12px grey !important;
+    margin-left: 10% !important;
+
+}
+.Btn-color{
+    background : #261e1e;
+    color: white;
+    height: 45px;
+    width: 219px;
+    margin-top: 50px;
+    margin-left: 6% !important;
+    border: none;
+}
+.tbl{
+    margin-left: 17%;
+}
+
+.tl{
+    margin-left: 36%;
+}
+
+
+input {
+    margin: 10px;
+}
+
+.BTN-d{
+    width: 100%;
+    height: 9%;
+    background-color: #008CDD;
+    border: none;
+    color: white;
+}
+
+
+.BTN-Tt{
+    width: 35% !important;
+    border-radius: 3px !important;
+    height: 2.34em !important;
+    background-color: #008CDD !important;
+    border: none !important;
+    color: white !important;
+}
+
+.BTN-T {
+    width: 27% !important;
+    padding-top: 5px !important;
+    border-radius: 3px !important;
+    height: 2.34em !important;
+    background-color: #008CDD !important;
+    border: none !important;
+    color: white;
+    text-decoration: none !important;
+    text-align: center !important;
+
+}
+
+.BTN-TDELETE{
+    width: 32% !important;
+    padding-top: 5px !important;
+    border-radius: 3px !important;
+    height: 2.34em !important;
+    background-color: #008CDD !important;
+    border: none !important;
+    color: white;
+    text-decoration: none !important;
+    text-align: center !important;
+}
+
+.BTN-T:hover{
+    color: white;
+}
+h5{
+    color : #008CDD;
+}
+
+.modal-title{
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.modal-header {
+    border-bottom: 2px solid black !important;
+}
+
+
+
+.modal-footer{
+    padding-top: 2px !important;
+    border-top: 2px solid black !important;
+}
+
+label{
+    color: #040e26;
+}
+
+.modal-body{
+    padding-bottom: 3px !important;
+}
+
+.model-content{
+    padding: 10px;
+}
+
+<!-- -->
+fieldset{
+    box-shadow: 1px 1px 18px 1px grey;
+    height: 37em !important;
+    text-align: center !important;
+    width: 69% !important;
+    margin-left: 14% !important;
+    background-color: white;
+    margin-top: 1% !important;
+}
+
+.control{
+    margin: auto !important;
+}
+
+.BTN-TBL{
+    width: 49% !important;
+    border-radius: 3px !important;
+    height: 3em !important;
+    background-color: #008CDD !important;
+    border: none !important;
+    color: white !important;
+
+}
+
+h1{
+    color : #008CDD !important;
+    text-align: center !important;
+    font-weight: bold !important;
+    margin-bottom: 1em !important;
+}
+
+p{
+    color : #050505 !important;
+    /*font-weight: bold !important;*/
+    font-size: 18px;
+}
+
+.affichage{
+    color : #008CDD !important;
+    text-align: center !important;
+    margin-top: 2px !important;
+    font-weight: bold;
+
+
+}
+
+.DD{
+    margin: -7px 228px !important;
+    padding: 5px !important;
+    width: 43em !important;
+}
+
+.FF{
+    width: 35% !important;
+}
+span{
+    color: black !important;
+}
